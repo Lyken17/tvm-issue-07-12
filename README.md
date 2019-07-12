@@ -17,7 +17,7 @@ The first model contains the 2~18 blocks in the original Proxyless Mobile model 
 #### Reproduce
 
 run 
-```python
+```bash
 $ python demo.py
 ```
 Then my machine, the output is:
