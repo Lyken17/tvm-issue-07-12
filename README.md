@@ -1,4 +1,4 @@
-#### Waht the code do
+#### What the code do
 
 There are two models, the two models are modified from ProxylessNAS GPU (https://github.com/mit-han-lab/ProxylessNAS).
 
